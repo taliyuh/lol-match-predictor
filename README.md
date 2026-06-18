@@ -2,6 +2,9 @@
 
 # League of Legends Match Prediction
 
+![League of Legends](docs/league.jpg)
+
+
 ## Aim
 The aim of this project is to predict the outcome of League of Legends matches at the 15-minute mark, based on statistics like player kills, gold, experience, collected objectives or destroyed turrets, using gradient boosting algorithms.
 
